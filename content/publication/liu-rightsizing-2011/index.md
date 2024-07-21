@@ -1,0 +1,65 @@
+---
+title: Rightsizing Bundle Link Capacities for Energy Savings in the Core Network
+authors:
+- Lin Liu
+- Byrav Ramamurthy
+date: '2011-12-01'
+publishDate: '2024-07-21T02:26:09.847324Z'
+publication_types:
+- paper-conference
+publication: '*2011 IEEE Global Telecommunications Conference - GLOBECOM 2011*'
+doi: 10.1109/GLOCOM.2011.6134490
+abstract: Current core networks are composed of high-end routers which are connected
+  by high-speed fibers. These optical connections are commonly overprovisioned and
+  in low utilization. Many of them are combined together to form bundle links or composite
+  links and the component links are referred to as sublinks. These physical sublinks
+  could be SONET connections, Ethernet circuits, wavelengths on a fiber, etc. And
+  they could be shut down or brought up independently. Selectively shutting down sublinks
+  during low traffic periods could save a large amount of energy while keeping the
+  network topology unchanged. Based on this concept, we propose a local heuristical
+  threshold- based method to explore the potential energy- savings in the backbone
+  network by adjusting the number of active sublinks in bundle links. An experiment
+  based on an Internet2 derived synthetic network was conducted to verify the performance
+  of our method and the results show that 86% of energy consumed on ports of core
+  routers could be saved when setting 90.0% as the link utilization threshold. The
+  experiment also shows that setting 90.0% as threshold is safe enough to avoid data
+  loss during extreme traffic increases in this case. Compared to previous proposed
+  ILP (Integer linear programming) based global heuristic algorithms, our local heuristic
+  algorithm can achieve energy-savings close to the optimum and greatly reduce the
+  response time and the risk of data loss.
+tags:
+- bandwidth
+- internet
+- telecommunication traffic
+- Network topology
+- Heuristic algorithms
+- integer programming
+- linear programming
+- SONET
+- optical connections
+- telecommunication network topology
+- integer linear programming
+- network topology
+- energy consumption
+- Routing protocols
+- Topology
+- heuristic algorithms
+- backbone network
+- bundle link capacity
+- component links
+- core network
+- core routers
+- energy savings
+- ethernet circuits
+- high-end routers
+- high-speed fibers
+- IEEE communications society
+- Internet2
+- Internet2 derived synthetic network
+- link utilization threshold
+- local heuristical threshold
+- SONET connections
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/abstract/document/6134490
+---

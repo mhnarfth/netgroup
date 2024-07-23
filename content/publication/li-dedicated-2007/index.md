@@ -1,0 +1,45 @@
+---
+title: Dedicated path protection for waveband switching in WDM networks (invited paper)
+authors:
+- Mengke Li
+- Byrav Ramamurthy
+date: '2007-09-01'
+publishDate: '2024-07-21T02:26:09.084143Z'
+publication_types:
+- paper-conference
+publication: "*2007 Fourth International Conference on Broadband Communications, Networks
+  and Systems (BROADNETS '07)*"
+doi: 10.1109/BROADNETS.2007.4550487
+abstract: This paper considers the problem of dedicated path-protection in a wavelength-division
+  multiplexing (WDM) mesh network with waveband switching (WBS) functionality under
+  shared risk link group (SRLG) constraints. Two protection schemes are proposed,
+  namely the Protecting-waveBand-At-waveBand-Level-only (PBABL) and the Mixed-Protection-At-waveBand-and-Wavelength-Level
+  (MPABWL). The PBABL protects each working waveband-path by a backup waveband-path.
+  While the MPABWL protects each working waveband-path by either a backup waveband-path
+  or multiple backup lightpaths. The performances of the two protection schemes in
+  terms of gained revenue and cost saving are studied and compared. Integer linear
+  programming (ILP) formulations are presented to solve the problems for each protection
+  scheme. Numerical results of the ILPs and the experimental results of previously
+  proposed heuristics are presented, which show that both heuristics can obtain optimum
+  solutions. According to the results, under heavy load traffic the MPABWL scheme
+  provides solutions with higher revenues than the PBABL scheme does. Under light
+  load traffic, where network resources are sufficient to accommodate all the traffics,
+  the PBABL scheme leads to less switching and transmission costs than the MPABWL
+  scheme does.
+tags:
+- telecommunication traffic
+- Wavelength division multiplexing
+- WDM networks
+- Costs
+- communication switching
+- routing
+- waveband switching
+- integer linear programming
+- high speed optical techniques
+- Optical fiber communication
+- path-protection
+- Protection
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/abstract/document/4550487/keywords
+---

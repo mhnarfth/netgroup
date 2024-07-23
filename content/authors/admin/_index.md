@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Network Research Group
+title: Byrav Ramamurthy
 
 # Full Name (for SEO)
-first_name: Netgroup
+first_name: Byrav
 last_name: Byrav Ramamurthy
 
 # Is this the primary user of the site?

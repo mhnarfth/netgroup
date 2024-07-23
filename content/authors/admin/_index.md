@@ -4,7 +4,7 @@ title: Byrav Ramamurthy
 
 # Full Name (for SEO)
 first_name: Byrav
-last_name: Byrav Ramamurthy
+last_name: Ramamurthy
 
 # Is this the primary user of the site?
 superuser: true

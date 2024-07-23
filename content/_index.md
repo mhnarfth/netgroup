@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Netgroup** at the School of Computing at University of Nebraska-Lincoln, works on broad areas of Networking research with focus on creating and building efficient, scalable, reliable, secure and cost-effective architectures and systems. Netgroup is working on a wide range of projects in the areas Networking and Security, with application to Optical Networks and Grids, Peer-to-Peer Networks, Software-Defined Networks, Wireless and Sensor Networks, Satellite Networks Network Security, and Secure Group Communication.
+        
   
   - block: collection
     content:

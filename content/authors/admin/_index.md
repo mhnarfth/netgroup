@@ -15,7 +15,7 @@ role: Professor & PI
 # Organizations/Affiliations
 organizations:
   - name: University of Nebraska Lincoln
-    url: ''
+    url: 'https://www.unl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 

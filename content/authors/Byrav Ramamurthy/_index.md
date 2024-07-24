@@ -74,7 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+- Principal Investigators
 ---
 
 Byrav Ramamurthy is currently a Professor in the Department of UNL School of Computing at the University of Nebraska-Lincoln (UNL). He is the author of the book "Design of Optical WDM Networks - LAN, MAN and WAN Architectures" and a co-author of the book "Secure Group Communications over Data Networks" published by Kluwer Academic Publishers/Springer in 2000 and 2004 respectively. He served as the Chair of the IEEE Communication Society's Optical Networking Technical Committee (ONTC) during 2009-2011. He served as the IEEE INFOCOM 2011 TPC Co-Chair. He is currently the Editor-in-Chief for the Springer Photonic Network Communications (PNET) journal.

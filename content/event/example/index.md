@@ -12,7 +12,7 @@ address:
   postcode: '68508'
   country: United States
 
-summary: An example event.
+summary: GPN Conference
 abstract: 'The Great Plains Network (GPN) is a non-profit consortium aggregating networks through GigaPoP connections while advocating research on behalf of universities and community innovators across the Midwest and Great Plains who seek collaboration, cyberinfrastructure and support for big data and big ideas, at the speed of the modern Internet.'
 
 # Talk start and end times.

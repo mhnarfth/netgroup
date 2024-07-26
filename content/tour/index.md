@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: World-Class Network Research Lab
+        content: 'Decades of Proven Excellence'
         align: right
         background:
           image:

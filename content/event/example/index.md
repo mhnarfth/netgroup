@@ -1,24 +1,24 @@
 ---
-title: Example Event
+title: GPN ANNUAL MEETING 2024
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: GPN Conference
+event_url: https://www.greatplains.net/gpn-annual-meeting-2024/
 
-location: Wowchemy HQ
+location: Nebraska Innovation Conference Center (NICC)
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 2021 Transformation Dr
+  city: Lincoln
+  region: NE
+  postcode: '68508'
   country: United States
 
 summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'The Great Plains Network (GPN) is a non-profit consortium aggregating networks through GigaPoP connections while advocating research on behalf of universities and community innovators across the Midwest and Great Plains who seek collaboration, cyberinfrastructure and support for big data and big ideas, at the speed of the modern Internet.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-06-10T07:00:00Z'
+date_end: '2024-06-12T11:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -51,13 +51,5 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+# projects:
 ---
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.

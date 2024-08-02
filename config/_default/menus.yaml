@@ -7,18 +7,21 @@ main:
   - name: Tour
     url: tour
     weight: 10
-  - name: News
-    url: post
-    weight: 20
   - name: People
     url: people
+    weight: 20    
+  - name: Project
+    url: project
     weight: 30
-  - name: Events
-    url: event
-    weight: 40
   - name: Publications
     url: publication
+    weight: 40
+  - name: News
+    url: news
     weight: 50
+  - name: Events
+    url: event
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70    

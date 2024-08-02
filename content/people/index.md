@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2022-10-24
+date: 2024-01-08
 
 type: landing
 
@@ -17,7 +17,7 @@ sections:
           - Administration
           - Visitors
           - Alumni
-      sort_by: Params.last_name
+      sort_by: Params.first_name
       sort_ascending: true
     design:
       show_interests: false

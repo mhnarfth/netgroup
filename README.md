@@ -14,7 +14,7 @@ Easily write technical content with plain text Markdown, LaTeX math, diagrams, R
 
 [Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+The integrated [**Wowchemy**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
 
 - 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
 - 📚 [View the **documentation**](https://docs.hugoblox.com/)
@@ -27,7 +27,7 @@ The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS make
 
 ## We ask you, humbly, to support this open source movement
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+Today we ask you to defend the open source independence of the Wowchemy and themes 🐧
 
 We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
 

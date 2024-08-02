@@ -1,21 +1,14 @@
 ---
-title: Dr. Byrav Ramamurthy Leads NSF-Funded Project to Transform Network Cyberinfrastructure
+title: Network Cyberinfrastructure Innovation with an Intelligent Real-Time Traffic Analysis Framework and Application-Aware Networking
 date: 2023-07-19
 ---
 
-**Project Title:** Network Cyberinfrastructure Innovation with an Intelligent Real-Time Traffic Analysis Framework and Application-Aware Networking
-
-**Award Number:** 2322369
-
-**Funding Agency:** National Science Foundation (NSF)
-
-**Award Amount:** $500,000
-
+**Award Number:** 2322369  
+**Funding Agency:** National Science Foundation (NSF)  
+**Award Amount:** $500,000  
 **Project Duration:** October 1, 2023 - September 30, 2025
-
-Dr. Byrav Ramamurthy has secured a significant grant from the National Science Foundation (NSF) for his project, "Network Cyberinfrastructure Innovation with an Intelligent Real-Time Traffic Analysis Framework and Application-Aware Networking." 
-
 <!--more-->
+Dr. Byrav Ramamurthy has secured a significant grant from the National Science Foundation (NSF) for his project, "Network Cyberinfrastructure Innovation with an Intelligent Real-Time Traffic Analysis Framework and Application-Aware Networking." 
 
 This groundbreaking research seeks to transform network cyberinfrastructure by utilizing machine learning techniques for advanced traffic analysis and application-aware networking solutions.
 

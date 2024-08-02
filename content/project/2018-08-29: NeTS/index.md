@@ -1,22 +1,17 @@
 ---
-title: Dr. Byrav Ramamurthy Secures NSF Grant for Advanced Research in Intelligent Optical Networks
+title: Intelligent Optical Networks Using Virtualization and Software-Defined Control
 date: 2018-08-29
 image:
   focal_point: 'top'
----
-**Project Title:** Intelligent Optical Networks Using Virtualization and Software-Defined Control
-
-**Award Number:** 1817105
-
-**Funding Agency:** National Science Foundation (NSF)
-
-**Award Amount:** $665,995
-
+--- 
+**Award Number:** 1817105  
+**Funding Agency:** National Science Foundation (NSF)  
+**Award Amount:** $665,995  
 **Project Duration:** October 1, 2018 - July 31, 2024
 
-Dr. Byrav Ramamurthy, a distinguished faculty member of the University of Nebraska-Lincoln, has been awarded a significant grant from the National Science Foundation to lead a groundbreaking research project in intelligent optical networks. 
-
 <!--more-->
+
+Dr. Byrav Ramamurthy, a distinguished faculty member of the University of Nebraska-Lincoln, has been awarded a significant grant from the National Science Foundation to lead a groundbreaking research project in intelligent optical networks. 
 
 This project, titled "Intelligent Optical Networks Using Virtualization and Software-Defined Control," aims to redefine the capabilities of Internet Service Providers (ISPs) by implementing innovative solutions in software-defined networking (SDN) and virtualization.
 

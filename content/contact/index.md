@@ -13,8 +13,8 @@ sections:
         
         Feel free to adjust any details to better match the tone or specific details you’d like to emphasize!
 
-      email: byrav@cse.unl.edu
-      phone: 888 888 88 88
+      email: ramamurthy@unl.edu
+      phone: (402) 472-7791
       address:
         street: 114A Schorr Center, 1100 T St
         city: Lincoln
@@ -25,10 +25,10 @@ sections:
       coordinates:
         latitude: '40.8198'
         longitude: '-96.7056'
-      directions: Enter the Building and turn right to the hallway. Office 114A on Floor 1.
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      directions: Enter the Building and take the staircase to the second floor. Office 213 on Floor 2.
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
       #appointment_url: ''
       #contact_links:
       #  - icon: comments

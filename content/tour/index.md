@@ -28,6 +28,16 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+      - title: 
+        content: 
+        align: right
+        background:
+          image:
+            filename: oldGroup.jpg
+            filters:
+              brightness: 0.7
+          position: left
+          color: '#555'
       - title: World-Class Network Research Lab
         content: 'Decades of Proven Excellence'
         align: right
@@ -50,5 +60,5 @@ sections:
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 1500
 ---

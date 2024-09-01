@@ -3,8 +3,8 @@
 title: Venkat Sai Suman Lamba Karanam
 
 # Full name (for SEO)
-first_name: Venkat Sai Suman
-last_name: Lamba Karanam
+first_name: Venkat Sai Suman Lamba
+last_name: Karanam
 
 # Username (this should match the folder name)
 authors:

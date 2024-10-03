@@ -1,5 +1,5 @@
 ---
-title: Network Cyberinfrastructure Innovation with an Intelligent Real-Time Traffic Analysis Framework and Application-Aware Networking
+title: "CC* Integration-Small: Network Cyberinfrastructure Innovation with an Intelligent Real-Time Traffic Analysis Framework and Application-Aware Networking"
 date: 2023-07-19
 ---
 

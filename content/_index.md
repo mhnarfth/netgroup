@@ -11,6 +11,7 @@ sections:
         
       image:
         filename: welcome.jpg
+        
       text: |
         <br>
         

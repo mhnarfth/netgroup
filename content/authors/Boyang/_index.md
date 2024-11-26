@@ -21,7 +21,7 @@ organizations:
     url: 'https://www.unl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: bio: My research areas include optical networks, network security, telecommunications, machine learning in optical networks, and software-defined networking. My research work is supported by the U.S. National Science Foundation and the U.S. Department of Energy.
+bio: My research areas include optical networks, network security, telecommunications, machine learning in optical networks, and software-defined networking. My research work is supported by the U.S. National Science Foundation and the U.S. Department of Energy.
 
 interests:
   - Network Security & Telecommunications

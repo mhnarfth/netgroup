@@ -11,7 +11,7 @@ sections:
       text: |-
         At the Netgroup, part of the School of Computing at the University of Nebraska-Lincoln, we are dedicated to advancing the field of networking through innovative research. Our team focuses on designing efficient, scalable, reliable, and secure network architectures and systems. Whether you’re interested in Optical Networks, Peer-to-Peer Networks, Software-Defined Networks, or Network Security, we welcome collaborations and inquiries. Contact us today to explore opportunities in networking research and innovation. 
         
-        Feel free to adjust any details to better match the tone or specific details you’d like to emphasize!
+        
 
       email: ramamurthy@unl.edu
       phone: (402) 472-7791
@@ -39,14 +39,14 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
     
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+      # # Email form provider
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: true
     design:
       columns: '1'
 

@@ -8,7 +8,7 @@ last_name: Kamel
 
 # Username (this should match the folder name)
 authors:
-  - Basant
+  - Basant Kamel
 
 # Is this the primary user of the site?
 superuser: true

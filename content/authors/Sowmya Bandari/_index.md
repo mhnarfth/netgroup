@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Sarat Sasank Barla
+title: Sowmya Bandari
 
 # Full name (for SEO)
-first_name: Sarat Sasank
-last_name: Barla
+first_name: Sowmya
+last_name: Bandari
 
 # Username (this should match the folder name)
 authors:
-  - Sarat
+  - Sowmya Bandari
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,26 +22,22 @@ organizations:
     url: 'https://www.unl.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research areas include Network traffic analysis, Machine Learning and network security. My research work is supported by the U.S. National Science Foundation, U.S. Department of Energy.
+bio: My research areas include Cyber Security, Machine Learning.
 
 interests:
-  - Network Security & Analysis
+  - Cyber Security
   - Machine Learning
   - Artificial Intelligence
-  - Deep Neural Networks
-  - Optical and Wireless Networks
+  - Software Defined Networking (SDN)
 
 
 education:
   courses:
-    - course: PhD in Computer Science 
+    - course: M.Sc in Computer Science
       institution: University of Nebraska-Lincoln
-      year: 2028
-    - course: MSc in Computer Science
-      institution: University of Nebraska-Lincoln
-      year: 2023
-    - course: BTech in Computer Science
-      institution: Anil Neerulonda Institute of Technology and Sciences
+      year: 2025
+    - course: B.E. in Computer Science and Engineering
+      institution: University College of Engineering, Osmania University
       year: 2020
 
 # Social/Academic Networking
@@ -51,13 +47,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sbarla2@huskers.unl.edu'
+    link: 'mailto:sbandari2@huskers.unl.edu'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/sarat-sasank-barla-b5363b190/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=BmK5hdAAAAAJ&hl=en&authuser=1
+    link: https://www.linkedin.com/in/sowmya-bandari-696ba4187/
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -74,4 +70,4 @@ user_groups:
   - Researchers
 ---
 
-Sarat is a PhD student in Computer Science at the University of Nebraska-Lincoln (UNL). His research areas include Network traffic analysis, Machine Learning and network security. My research work is supported by the U.S. National Science Foundation, U.S. Department of Energy.
+Sowmya is a Masters student in Computer Science at the University of Nebraska-Lincoln (UNL), with a strong focus on cybersecurity, machine learning, and network security. She is currently working on a Smart Grid Cyber Security project, aiming to protect energy infrastructure from cyber threats for the Smart Grid framework. Her research is supported by the  Nebraska Center for Energy Sciences Research (NCESR), in partnership with Nebraska Public Power District (NPPD), under the guidance of Dr. Byrav Ramamurthy. In addition to her research, Sowmya has gained valuable industry experience as a Software Engineer at Medtronic and a Software Development Intern at Election Systems & Software, where she contributed to Software development and automation.

@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Knowledge Sharing Sessions
+        content: 'Collaborate, learn, and discover groundbreaking ideas with our team!'
         align: left
         background:
           image:
@@ -43,7 +43,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: oldcontact.jpg
             filters:
               brightness: 0.5
           position: center

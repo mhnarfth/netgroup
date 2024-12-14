@@ -8,7 +8,7 @@ last_name: Karanam
 
 # Username (this should match the folder name)
 authors:
-  - Sai
+  - Venkat Sai Suman Lamba Karanam
 
 # Is this the primary user of the site?
 superuser: false

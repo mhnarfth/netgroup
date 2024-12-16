@@ -131,7 +131,7 @@ Once Hugo is set up, clone the GitHub repository or download it as a ZIP file:
 1. Go to the `content/authors` folder.
 2. Create a new folder and name it as the author's name (make sure it matches the 'Username').
 3. Inside the folder, create a file named `_index.md`:
-   ```markdown
+```markdown
    ---
   # Display name
   title: M A U Shariff (Mahin)

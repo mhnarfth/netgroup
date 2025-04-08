@@ -51,7 +51,7 @@ social:
     link: 'mailto:boyang.hu@huskers.unl.edu'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/boyanghu
+    link: https://www.linkedin.com/in/boyang-hu-49970957/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=450U9F8AAAAJ&hl=en&oi=ao

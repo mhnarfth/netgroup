@@ -230,10 +230,14 @@ create a new folder, create `cite.bib` and `index.md` file and fill them accordi
    ```
    - This will generate a folder named `public` in your current directory.
 2. Copy the `public` folder to the UNL CSE server:
-   - Connect to the server and paste the `public` folder.
+   - Connect to the server and paste the `public` folder. (zip it, move it, unzip it for ease -- instructions below)
 3. Rename the folder to **`public_html`**:
    - Ensure the folder is named `public_html` for the updates to display.
 4. Your website should now be updated on the UNL CSE server.
+
+##### Useful Information (for termianl)
+1. To zip a folder in Terminal on Mac, use the command zip -r <zip_file_name.zip> <folder_name>. 
+2. To unzip, use unzip <zip_file_name.zip>. 
 
 ---
 

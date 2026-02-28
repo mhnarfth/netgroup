@@ -65,7 +65,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visiting Students
+  # - Visiting Students
 ---
 
 Basant is a dedicated individual with a passion for learning and personal growth. She has independently studied English and pursued programming since high school. Her unwavering determination has driven her academic achievements. Despite graduating from high school with a high degree that qualified her for engineering, Basant followed her heart and convinced her family to support her pursuit of computer science. Her dedication was recognized when she was selected for the USAID scholarship from a pool of over 19,000 applicants. Basant successfully completed an internship at Halliburton Overseas in Egypt and had the opportunity to study abroad. Currently, she is in her senior year of computer science at the University of Nebraska-Lincoln, with one remaining semester at Ain Shams University to complete her degree in Artificial Intelligence. With a newfound interest in research, Basant plans to pursue graduate studies and delve deeper into her field after graduation.

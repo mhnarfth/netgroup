@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  # - Researchers
 ---
 
 Sowmya is a Masters student in Computer Science at the University of Nebraska-Lincoln (UNL), with a strong focus on cybersecurity, machine learning, and network security. She is currently working on a Smart Grid Cyber Security project, aiming to protect energy infrastructure from cyber threats for the Smart Grid framework. Her research is supported by the  Nebraska Center for Energy Sciences Research (NCESR), in partnership with Nebraska Public Power District (NPPD), under the guidance of Dr. Byrav Ramamurthy. In addition to her research, Sowmya has gained valuable industry experience as a Software Engineer at Medtronic and a Software Development Intern at Election Systems & Software, where she contributed to Software development and automation.

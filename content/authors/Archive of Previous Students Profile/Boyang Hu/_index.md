@@ -68,7 +68,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  # - Researchers
 ---
 
 Boyang Hu is currently a PhD candidate in the School of Computing at the University of Nebraska-Lincoln (UNL), under the supervision of Dr. Byrav Ramamurthy. His research areas encompass optical networks, network security, telecommunications, machine learning in optical networks, and software-defined networking. His research work is supported by the U.S. National Science Foundation and the U.S. Department of Energy.

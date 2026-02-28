@@ -68,57 +68,76 @@ organizations:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Alumni
----
+--- 
 
-### 1. Lalita Kumawat, Fall 2021  
-
-### 2. Jong-Tae Lee, Spring 1999  
+### 1. Jong-Tae Lee, Spring 1999  
 **_Area of Expertise:_** Wavelength Converter Placement in Optical Networks  
 
-### 3. Ashok Ramakrishnan, Spring 2000  
+### 2. Ashok Ramakrishnan, Spring 2000  
 **_Area of Expertise:_** Virtual Topology Reconfiguration in Optical Networks  
 
-### 4. Srinath Yaragorla, Summer 2000  
+### 3. Srinath Yaragorla, Summer 2000  
 **_Area of Expertise:_** Sparse Regeneration in a Translucent Network  
 
-### 5. Ling Zhong, Spring 2000  
+### 4. Ling Zhong, Spring 2000  
 **_Area of Expertise:_** Optimizing of Amplifier Placements in Switched Optical Networks  
 
-### 6. Shu Zhang, Spring 2001  
+### 5. Shu Zhang, Spring 2001  
 **_Area of Expertise:_** Dynamic Traffic Grooming for Reconfigurable WDM Networks  
 
-### 7. Lu Shen, Spring 2002  
+### 6. Lu Shen, Spring 2002  
 **_Area of Expertise:_** Signaling Schemes for GMPLS-based WDM Mesh Networks  
 
-### 8. Kalpana Ganesan, Spring 2003  
+### 7. Kalpana Ganesan, Spring 2003  
 **_Area of Expertise:_** P-Lambda Scheduler for WDM Optical Packet Switching  
 
-### 9. Ajay Kumar Todimala, Spring 2003  
+### 8. Ajay Kumar Todimala, Spring 2003  
 **_Area of Expertise:_** Fault-Tolerance in Optical WDM Mesh Networks  
 
-### 10. Siva Sunkavalli, Summer 2003  
+### 9. Siva Sunkavalli, Summer 2003  
 **_Area of Expertise:_** Scatternet Formation in Bluetooth Networks  
 
-### 11. Ravi Balachandran, Fall 2004  
+### 10. Ravi Balachandran, Fall 2004  
 **_Area of Expertise:_** Secure Group Communication over Wireless Ad Hoc Networks  
 
-### 12. Garhan Attebury, Summer 2006  
+### 11. Garhan Attebury, Summer 2006  
 **_Area of Expertise:_** Federated Network Management through Attribute Access Control  
 
-### 13. Pratheeswaran Angu, Summer 2011  
+### 12. Pratheeswaran Angu, Summer 2011  
 **_Area of Expertise:_** Offline Optimization of Advance Reservation over Dynamic Networks  
 
-### 14. Lin Liu, Fall 2011  
+### 13. Lin Liu, Fall 2011  
 **_Area of Expertise:_** Distributed Algorithms for Energy Savings in the Core Network  
 
-### 15. Joeyeta Mukherjee, Summer 2012  
+### 14. Joeyeta Mukherjee, Summer 2012  
 **_Area of Expertise:_** Routing Over The Interplanetary Internet  
 
-### 16. Santiago Gimenez Ocano, Spring 2015  
+### 15. Santiago Gimenez Ocano, Spring 2015  
 **_Area of Expertise:_** Remote Mobile Screen (RMS): An Approach for Secure BYOD Environments  
 
-### 17. Sara El Alaoui, Fall 2015  
+### 16. Sara El Alaoui, Fall 2015  
 **_Area of Expertise:_** Routing Optimization in Interplanetary Networks  
 
+### 17. Lalita Kumawat, Fall 2021 
 
+### 18.	Sowmya Bandari, MS. (CS), Spring 2025
+  **_Position:_** Software Test Engineer III at Boston Scientific
+
+  **_Area of Expertise:_** Cyber Security, SDN, Machine Learning & AI
+
+   **_Thesis:_** 
+  [A Machine Learning Framework for Packet Anomaly Detection in Smartgrid Substation Networks](https://digitalcommons.unl.edu/computerscidiss/244/)
   
+  ### 19.	M A U Shariff, MS. (CS), Summer 2025
+  **_Position:_** PhD in CS at University of Nebraska-Lincoln
+
+  **_Area of Expertise:_** 
+  - Artificial Intelligence & Foundation Models
+  - Generative AI & Neuro-Symbolic Systems
+  - Network Traffic Forecasting & Anomaly Detection
+  - Self-Supervised Learning
+  - Agentic Workflows & AIOps
+  - AI for Research & Education Networks (RENs)
+
+   **_Thesis:_** 
+  [Traffic Prediction for Research and Education Networks: Anomaly-aware Deep Learning and Benchmarking](https://digitalcommons.unl.edu/computerscidiss/251/)

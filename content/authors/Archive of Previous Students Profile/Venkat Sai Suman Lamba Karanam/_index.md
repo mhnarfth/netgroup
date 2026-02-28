@@ -64,7 +64,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+#  - Researchers
+
 ---
 
 Sai is a PhD candidate in Computer Science at the University of Nebraska-Lincoln (UNL). His research interests involve modeling the behavior in network communciation systems, large data transfers (think of data transfers in Grid environments) and cybersecurity mechanisms. The developed models help customize the adopted machine learning models specific to those thtree problems: typically done with special objective and loss functions, and model architectures. 

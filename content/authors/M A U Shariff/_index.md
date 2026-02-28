@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Research & Teaching Assistant
+role: Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -25,18 +25,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Deep Learning
-  - Machine Learning
-  - Time Series Model
-  - Medical Image Analysis
-  - Network Security
+  - Artificial Intelligence & Foundation Models
+  - Generative AI & Neuro-Symbolic Systems
+  - Network Traffic Forecasting & Anomaly Detection
+  - Self-Supervised Learning
+  - Agentic Workflows & AIOps
+  - AI for Research & Education Networks (RENs)
 
 education:
   courses:
     - course: PhD in Computer Science
       institution: University of Nebraska Lincoln
       year: 2028
+    - course: MSc in Computer Science
+      institution: University of Nebraska Lincoln
+      year: 2025
     - course: BSc in Computer Science & Engineering
       institution: Port City International University
       year: 2020
@@ -79,6 +82,6 @@ user_groups:
   - Researchers
 ---
 
-M A U Shariff is a highly accomplished and dedicated Computer Science scholar currently pursuing a Ph.D. at the University of Nebraska–Lincoln. With a stellar academic record, having achieved a perfect GPA of 4.0, Shariff has specialized in cutting-edge fields like AI, Machine Learning, Deep Learning, Computer Vision, Quantum Computing, and the Design & Analysis of Algorithms. His educational journey began at Port City International University in Chattogram, Bangladesh, where he earned a Bachelor’s degree in Computer Science & Engineering, graduating with an impressive GPA of 3.99. Shariff’s thesis on “Bangladeshi Regional Dialects Identification using a Novel GLDNN Hybrid Model” underscores their innovative approach to solving complex problems and their commitment to advancing technology for societal benefit.
-
-In addition to his academic pursuits, Shariff has gained significant professional experience as a Graduate Teaching Assistant and Graduate Research Assistant at the University of Nebraska–Lincoln, where he teaches Data Structures and Algorithms and engage in research on networking architectures under the guidance of Dr. Byrav Ramamurthy. His previous roles include working as a Teacher Consultant and Coding Instructor for CODINGAL in Bengaluru, where he enhanced students’ problem-solving skills, and as an Assistant Programmer at Arena Web Security in Dhaka, focusing on software development and technical specifications. Shariff’s contributions to the field are further highlighted by their published research, including a paper on predicting air quality index using deep learning, which has garnered 42 citations to date. His diverse technical skill set encompasses programming languages like C, Java, and Python, as well as frameworks such as React and Node, making them a versatile and impactful member of the computer science community.
+M A U Shariff is a Ph.D. student and Graduate Research Assistant in the School of Computing at the University of Nebraska–Lincoln, advised by Dr. Byrav Ramamurthy. He received his Master of Science in Computer Science from UNL in 2025 with a perfect 4.0 GPA, following a B.Sc. from Port City International University where he graduated as Department Topper.
+Shariff’s research lies at the intersection of Artificial Intelligence and Next-Generation Networking. He specializes in developing neuro-symbolic and foundation models for traffic forecasting, anomaly detection, and autonomous network management on large-scale Research and Education Networks (RENs). His recent work includes benchmarking transformer architectures on Internet2 backbone traffic and developing hybrid GRU-LSTM models for robust forecasting. He plays a lead role in the lab's NSF-funded project on REN traffic analysis and maintains the open-source RONA analysis tool.
+An active member of the academic community, Shariff has served as a peer reviewer for top-tier venues including IEEE INFOCOM, WCNC, and VTC. His work has been recognized with several awards, including the 2025 IEEE Computational Intelligence Society Graduate Student Research Grant and multiple NSF AraFest travel grants. Beyond research, he serves as a Graduate Teaching Assistant for core CS courses and has prior industry experience in software development and technical instruction.

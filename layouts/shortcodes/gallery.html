@@ -1,0 +1,20 @@
+<div class="project-gallery-grid">
+  {{ $images := .Page.Resources.Match "gallery/*" }}
+  {{ range $images }}
+    {{/* Automatically clean filename to use as caption */}}
+    {{ $cleanName := replace .Name "gallery/" "" }}
+    {{ $cleanName = replace $cleanName ".jpg" "" }}
+    {{ $cleanName = replace $cleanName ".jpeg" "" }}
+    {{ $cleanName = replace $cleanName "-" " " }}
+    {{ $cleanName = title $cleanName }}
+
+    <div class="gallery-item-card">
+      <div class="gallery-image-wrapper">
+        <img src="{{ .RelPermalink }}" alt="{{ $cleanName }}" loading="lazy">
+      </div>
+      <div class="gallery-caption-bar">
+        {{ $cleanName }}
+      </div>
+    </div>
+  {{ end }}
+</div>

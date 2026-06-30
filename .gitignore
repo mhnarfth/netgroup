@@ -7,3 +7,31 @@ public/
 assets/jsconfig.json
 public.zip
 p.zip
+
+
+# --- Python / Research ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# --- Large Data & Logs ---
+# It's best to keep your data local and only push code
+data/
+output/
+logs/
+*.log
+*.csv
+*.json
+# (Unless your project explicitly needs small config JSONs)
+
+# --- System / OS ---
+.DS_Store
+Thumbs.db
+
+# --- C++ (If applicable) ---
+*.o
+*.out
+build/

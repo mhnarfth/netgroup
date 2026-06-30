@@ -1,0 +1,154 @@
+// /* Gallery Grid Structure */
+// .project-gallery-grid {
+//   display: grid;
+//   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+//   gap: 24px;
+//   margin: 30px 0;
+// }
+
+// /* Base Card Container */
+// .gallery-item-card {
+//   display: flex;
+//   flex-direction: column;
+//   background: #ffffff;
+//   border: 1px solid #eaeaea;
+//   border-radius: 8px;
+//   overflow: hidden;
+//   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+//   transition: transform 0.2s ease, box-shadow 0.2s ease;
+// }
+
+// .gallery-item-card:hover {
+//   transform: translateY(-4px);
+//   box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+// }
+
+// /* Image Container */
+// .gallery-image-wrapper {
+//   aspect-ratio: 4 / 3;
+//   width: 100%;
+//   background: #f8f9fa;
+//   overflow: hidden;
+// }
+
+// .gallery-image-wrapper img {
+//   width: 100% !important;
+//   height: 100% !important;
+//   object-fit: cover !important;
+//   margin: 0 !important;
+//   display: block;
+// }
+
+// /* Explicit Caption Underneath the Photo */
+// .gallery-caption-bar {
+//   padding: 12px 15px;
+//   text-align: center;
+//   font-size: 0.9em !important;
+//   font-weight: 600 !important;
+//   color: #333333 !important;
+//   background: #fafafa !important;
+//   border-top: 1px solid #eaeaea;
+//   line-height: 1.4;
+//   word-wrap: break-word;
+// }
+
+
+
+
+
+/* ==========================================================================
+   NSF Award Metadata Dashboard Box
+   ========================================================================== */
+.nsf-dashboard-widget {
+  background: #f8f9fa !important;
+  border: 1px solid #e9ecef !important;
+  border-left: 5px solid #d00000 !important; /* Elegant red accent line */
+  padding: 22px !important;
+  margin: 25px 0 !important;
+  border-radius: 8px !important;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05) !important;
+}
+
+.nsf-dashboard-widget h4 {
+  margin-top: 0 !important;
+  margin-bottom: 15px !important;
+  color: #2b2b2b !important;
+  font-size: 1.15em !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  font-weight: 700 !important;
+}
+
+.nsf-dashboard-widget ul {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.nsf-dashboard-widget li {
+  margin-bottom: 12px !important;
+  font-size: 0.98em !important;
+  line-height: 1.5 !important;
+  color: #333333 !important;
+}
+
+.nsf-dashboard-widget li:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* ==========================================================================
+   Project Photo Gallery - Static Card Grid
+   ========================================================================== */
+.project-gallery-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)) !important;
+  gap: 24px !important;
+  margin: 30px 0 !important;
+}
+
+/* Base Card Container */
+.gallery-item-card {
+  display: flex !important;
+  flex-direction: column !important;
+  background: #ffffff !important;
+  border: 1px solid #eaeaea !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05) !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+}
+
+/* Gentle lifting motion on hover */
+.gallery-item-card:hover {
+  transform: translateY(-4px) !important;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1) !important;
+}
+
+/* Image Container */
+.gallery-image-wrapper {
+  aspect-ratio: 4 / 3 !important;
+  width: 100% !important;
+  background: #f8f9fa !important;
+  overflow: hidden !important;
+}
+
+.gallery-image-wrapper img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  margin: 0 !important;
+  display: block !important;
+}
+
+/* Explicit Static Caption Underneath the Photo */
+.gallery-caption-bar {
+  padding: 12px 15px !important;
+  text-align: center !important;
+  font-size: 0.9em !important;
+  font-weight: 600 !important;
+  color: #333333 !important;
+  background: #fafafa !important;
+  border-top: 1px solid #eaeaea !important;
+  line-height: 1.4 !important;
+  word-wrap: break-word !important;
+}

@@ -15,6 +15,7 @@ superuser: true
 
 # Role/position
 role: Graduate Research Assistant
+people_order: 2
 
 # Organizations/Affiliations
 organizations:

@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 role: Graduate Research Assistant
-
+people_order: 3
 # Organizations/Affiliations
 organizations:
   - name:  University of Nebraska Lincoln

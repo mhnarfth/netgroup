@@ -15,6 +15,7 @@ superuser: true
 
 # Role/position
 role: Research Assistant
+people_order: 4
 
 # Organizations/Affiliations
 organizations:
